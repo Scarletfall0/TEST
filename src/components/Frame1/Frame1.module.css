@@ -1,0 +1,40 @@
+.root {
+  position: relative;
+  width: 744px;
+  height: 488px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 116px;
+  top: 150px;
+  width: 121px;
+  height: 148px;
+  background-color: #d9d9d9;
+}
+.wowza {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 473px;
+  top: 258px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1351 {
+  position: absolute;
+  left: 274px;
+  top: 161px;
+  width: 196px;
+  height: 214px;
+  background-image:/* webpackIgnore: true */ url('assets/_1351.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
